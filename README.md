@@ -1,4 +1,4 @@
-# 💫 About Me: Hi , I'm yasin
+# 💫 About Me:
 I’m Yasin, a dedicated software developer with a strong focus on JavaScript, QE, and MongoDB.<br>I specialize in building efficient, maintainable, and scalable solutions while following clean coding principles.<br>I’m continuously improving my technical skills, exploring new technologies, and aiming to deliver high-quality software that makes a real impact.
 
 
